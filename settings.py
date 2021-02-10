@@ -1,3 +1,5 @@
+###Created by Lex Whalen
+
 from datetime import date
 TODAY = date.today()
 WIN_WIDTH = 1280
