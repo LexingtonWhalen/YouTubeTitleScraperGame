@@ -1,3 +1,5 @@
+###Created by Lex Whalen
+
 from info_extractor import infoExtractor
 import matplotlib.pyplot as plt
 import pandas as pd
