@@ -1,3 +1,5 @@
+###Created by Lex Whalen
+
 import pygame as pg
 import os
 from data_manip import DataManipulator
