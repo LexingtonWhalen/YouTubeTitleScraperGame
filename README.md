@@ -1,17 +1,19 @@
 # YouTubeAPITitleScraper
 
-## LINK: https://www.youtube.com/watch?v=pqGhU1Wajjs&ab_channel=log1
+## Using YouTube's API to investigate what Hiroyuki Nishimura drinks.
 
-## WHAT IS IT:
+## :cinema: Video: https://www.youtube.com/watch?v=pqGhU1Wajjs&ab_channel=log1
+
+## :grey_question: WHAT IS IT:
 A program that takes in data from a playlist and parses it. Finds the drinks he drinks.
 
-## FEATURES:
+## :zap: FEATURES:
 Grabs the drinks from his titles!
 Updates when he uploads a video!
 Creates updated graphs!
 Animated!
 
-## MODULES USED:
+## :package:Modules / Packages:
 * numpy: https://numpy.org/devdocs/contents.html
 * pandas: https://pandas.pydata.org/pandas-docs/stable/index.html
 * os: https://docs.python.org/3/library/os.html
@@ -24,5 +26,5 @@ Animated!
 * pygame:https://www.pygame.org/news
 * re: https://docs.python.org/3/library/re.html
 
-###### TO DO:
+###### :hammer:To do:
 Honestly probably done with this guy. Really just made it because I myself was interested. I learned a lot about matplotlib and youtube's api however.
