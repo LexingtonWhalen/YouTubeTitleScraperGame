@@ -4,10 +4,10 @@
 
 ## :cinema: Video: https://www.youtube.com/watch?v=pqGhU1Wajjs&ab_channel=log1
 
-## :grey_question: WHAT IS IT:
+## :grey_question: What is it?
 A program that takes in data from a playlist and parses it. Finds the drinks he drinks.
 
-## :zap: FEATURES:
+## :zap: Features:
 Grabs the drinks from his titles!
 Updates when he uploads a video!
 Creates updated graphs!
